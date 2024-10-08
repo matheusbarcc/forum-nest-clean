@@ -3,7 +3,6 @@ import { QuestionAttachment } from '../../enterprise/entities/attachment-questio
 export abstract class QuestionAttachmentsRepository {
   abstract createMany(attachments: QuestionAttachment[]): Promise<void>
   abstract deleteMany(attachments: QuestionAttachment[]): Promise<void>
-
   abstract findManyByQuestionId(
     questionId: string,
   ): Promise<QuestionAttachment[]>
