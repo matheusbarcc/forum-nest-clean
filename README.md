@@ -19,14 +19,6 @@ This project is designed with Clean Architecture principles, promoting separatio
 
 - **Business Logic**: Contains the core business rules and entities of the application.
 
-## Architecture
-
-This project is designed with Clean Architecture principles, promoting separation of concerns and enhancing maintainability. The architecture is divided into three primary layers: **Domain**, **Interface/Gateways**, and **External**.
-
-### Domain Layer
-
-- **Business Logic**: Contains the core business rules and entities of the application.
-
 ### Interface/Gateways Layer
 
 - Serves as the bridge between the internal (Domain) and external layers.
