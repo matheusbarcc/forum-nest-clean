@@ -66,7 +66,7 @@ To set up the project locally, follow these steps:
    > pnpm install
    ```
 
-4. Configure your environment variables. Create a `.env` and `.env.test` files and set up your database, Cloudflare R2, and JWT.
+4. Configure your environment variables. Create a `.env` and `.env.test` files and set up your Database, Cloudflare R2, and JWT keys.
 
 5. Run the application:
    ```sh
@@ -78,13 +78,13 @@ To set up the project locally, follow these steps:
 To run the unit test suite, use the following command:
 
 ```sh
-> npm test
+> pnpm test
 ```
 
 To run the e2e test suite, use the following command:
 
 ```sh
-> npm test:e2e
+> pnpm test:e2e
 ```
 
 This project uses **Vitest** for testing, providing fast and reliable tests to ensure the quality of the application.
