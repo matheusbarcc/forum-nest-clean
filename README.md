@@ -37,7 +37,7 @@ This layered approach ensures that modifications to external services or infrast
 
 ## File Uploads
 
-For handling file uploads, we utilize **Cloudflare R2**. This service allows for scalable and cost-effective storage of attachments, ensuring that users can seamlessly upload and access files.
+For handling file uploads, I utilized **Cloudflare R2**. This service allows scalable and cost-effective storage of attachments, ensuring that users can seamlessly upload and access files.
 
 ## Getting Started
 
