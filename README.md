@@ -1,6 +1,6 @@
-# Forum Application Backend
+# Forum API
 
-Welcome to the Forum Application Backend! This project serves as the backend for a forum platform where students can create and manage questions, and instructors can provide answers. The application follows the principles of Clean Architecture to ensure maintainability and scalability.
+Welcome to the Forum API! This project serves as the backend for a forum platform where students can create and manage questions, and instructors can provide answers. The application follows the principles of Clean Architecture to ensure maintainability and scalability.
 
 ## Features
 
@@ -83,7 +83,7 @@ This project uses **Vitest** for testing, providing fast and reliable tests to e
 
 ---
 
-Thank you for checking out the Forum Application Backend!
+Thank you for checking out the Forum API!
 ```
 
 Feel free to modify any sections or add additional information as needed!
